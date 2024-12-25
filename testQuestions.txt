@@ -1,0 +1,42 @@
+Price Analysis
+What is the overall trend of Bitcoin's price during this period?
+Can you identify any significant price spikes or crashes?
+What is the compound annual growth rate (CAGR) of Bitcoin over this timeframe?
+
+Volatility Analysis
+Calculate the daily, weekly, and monthly volatility of Bitcoin prices.
+How has Bitcoin's volatility changed over time?
+Are there any patterns in volatility related to specific events or time periods?
+
+Trading Volume Analysis
+What is the correlation between trading volume and price movements?
+Can you identify any unusual spikes in trading volume?
+Is there a trend in the average daily trading volume over the years?
+
+Seasonality and Patterns
+Is there any evidence of seasonality in Bitcoin prices or trading volumes?
+Can you detect any day-of-week effects on price or volume?
+Are there any recurring patterns in Bitcoin's price movements?
+
+Technical Indicators
+Calculate and plot moving averages (e.g., 50-day and 200-day) for Bitcoin prices.
+Implement the Relative Strength Index (RSI) and analyze overbought/oversold conditions5.
+Use Bollinger Bands to identify periods of high and low volatility4.
+
+Market Cap Analysis
+How has Bitcoin's market capitalization changed over time?
+What is the relationship between market cap and price?
+
+Comparative Analysis
+How does Bitcoin's performance compare to traditional assets like gold or the S&P 500?
+Can you identify any correlations between Bitcoin and other major cryptocurrencies?
+
+Advanced Analysis
+Implement a simple linear regression model to predict future Bitcoin prices6.
+Explore sentiment analysis using news headlines or social media data to correlate with price movements7.
+Use time series analysis techniques to forecast Bitcoin prices5.
+
+Visualization Tasks
+Create a candlestick chart to visualize Bitcoin's price movements3.
+Generate a heatmap to show the correlation between different cryptocurrencies3.
+Develop an interactive dashboard that allows users to explore Bitcoin data across different time frames
